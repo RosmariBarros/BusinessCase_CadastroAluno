@@ -1,5 +1,5 @@
-# BusinessCase_CadastroAluno
-Projeto utilzado para a conclusão do primeiro módulo da Formação Expert em Python da Empowerdata.
+# Business Case - Cadastro Aluno
+Projeto apresentado para a conclusão do primeiro módulo da Formação Expert em Python da Empowerdata.
 
 Cenário:
  
